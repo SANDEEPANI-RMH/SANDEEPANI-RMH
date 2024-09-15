@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Himasha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;I+love+working+with+AI%2C+ML%2C+and+Web+Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+Profile!;I+am+a+Passionate+Developer;I+love+working+with+Web+Development)](https://git.io/typing-svg)
 
 <!-- Intro -->
-I'm a **3rd-year IT student** at the University of Moratuwa. I love building applications and exploring new technologies like Machine Learning, and Full Stack Development. Here's what I'm working on right now:
+I'm a **3rd-year IT student** at the University of Moratuwa. I love building applications and exploring new technologies like Full Stack Development. Here's what I'm working on right now:
 
 - 🚀 Building a E commerce website using React and ASP.NET.
-- 🌱 Learning **Machine Learning** and AI techniques
+- 🌱 Learning **Machine Learning** and AI techniques.
 - 💡 Interested in mobile and web development, coding challenges.
 
 ## 🚀 Skills & Tools

@@ -24,10 +24,12 @@ I'm a **3rd-year IT student** at the University of Moratuwa. I love building app
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind%20css&logoColor=white)
 
 - *Databases:*  
   ![MS SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - *Tools & IDEs:*  
   ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -44,6 +46,27 @@ A real-time bus/train booking and tracking system for public transportation, all
 - *Role:* Project Leader, Full Stack Developer
 - *Tech Stack:* React JS, Bootstrap, ASP.NET Core, MSSQL, Azure
 - *Status:* Completed (2023 - 2024)
+
+### 🧁 QUEENS OF CAKE website
+An e-commerce platform to simplify cake ordering, leveraging a scalable microservice architecture for performance and modularity. 
+
+- *Role :* Frontend Developer 
+- *Technologies used :* React.js, Node.js, MongoDB, Express.js
+
+### 📝 NOTE APP 
+A task management application that allows users to create, edit, delete, and organize notes with tagging functionality for easy filtering. The app includes user authentication for secure access, tag-based filtering, seamless API requests using Axios, and efficient error handling and validation to enhance usability and performance.
+
+ - *Role :* Full-Stack Developer
+ - *Technologies used :* React.js, Node.js, MongoDB
+
+### 👩‍💻 PORTFOLIO WEBSITE
+A website designed to showcase my work and skills in software development. The portfolio includes smooth animations and a responsive layout for an enhanced user experience, and it is deployed on Vercel for live access.
+ - *Role :* Web Developer
+ - *Technologies used :* Next.js, Framer Motion, TailwindCSS, Vercel
+## 😂 JOKE APP
+A fun and interactive mobile application built with Flutter that delivers random jokes to users. Itutilizes caching for offline functionality, ensuring users can enjoy jokes even without an internet connection.
+ - *Role:* Full-Stack Developer
+ - *Technologies Used:* Flutter, Node.js, Caching (Offline Functionality)
 
 ### 🩺 [Patient Monitoring System](#)
 A wearable device that tracks **blood pressure**, **heart rate**, and more. Displayed data on a web platform with **MySQL**, **PHP**, and **Bootstrap**.
@@ -69,7 +92,7 @@ I am always open to new ideas and exciting projects, so don't hesitate to connec
 ## ✨ Fun Facts & Hobbies
 
 - 🎶 I love music.
-- 📚 I'm a fan of reading research articles and books.
+- 📚 I'm a huge fan of diving into novels and getting lost in their stories.
 - ♟️ I enjoy playing chess 
 
 
